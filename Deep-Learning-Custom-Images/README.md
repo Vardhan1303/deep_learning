@@ -67,7 +67,7 @@ jupyter notebook 03-Deep-Learning-Custom-Images.ipynb
 Here’s a quick preview of what the dataset looks like:
 
 <p align="center"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Cat_and_dog_friendly.jpg" width="600" /> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Cat_and_dog.JPG" width="600" /> 
 </p>
 
 ## 📜 Certificate of Completion
