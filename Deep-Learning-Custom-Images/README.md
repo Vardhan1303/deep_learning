@@ -16,7 +16,7 @@ This project was completed as part of the Udemy course, where I learned how to:
 
 ## 📸 Dataset Information
 ### 🔗 Original Data Source:
-[Microsoft Dogs vs Cats Dataset](https://www.microsoft.com/en-us/download/confirmation.aspx?id=54765)  
+[Microsoft Dogs vs Cats Dataset](https://www.microsoft.com/en-us/download/details.aspx?id=54765)  
 
 ### 🎯 Kaggle Competition:
 [Dogs vs Cats Redux](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition)  
@@ -61,14 +61,6 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook 03-Deep-Learning-Custom-Images.ipynb
 ```
-
-## 🖼️ Visualizing the Data
-
-Here’s a quick preview of what the dataset looks like:
-
-<p align="center"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Cat_and_dog.JPG" width="600" /> 
-</p>
 
 ## 📜 Certificate of Completion
 
