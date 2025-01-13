@@ -98,7 +98,7 @@ print(classification_report(y_test, predicted_classes))
 ## 🏅 Example Classification Report:
  
 ```yaml
-precision    recall  f1-score   support
+precision         recall   f1-score   support
 
            0       0.86      0.85      0.86      1000
            1       0.99      0.98      0.98      1000
@@ -111,8 +111,8 @@ precision    recall  f1-score   support
            8       0.98      0.98      0.98      1000
            9       0.97      0.96      0.97      1000
 
-accuracy                           0.91     10000
-macro avg       0.91      0.91      0.91     10000
+accuracy                               0.91     10000
+macro avg          0.91      0.91      0.91     10000
 weighted avg       0.91      0.91      0.91     10000
 ```
 
